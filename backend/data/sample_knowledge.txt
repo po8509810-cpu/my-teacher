@@ -1,0 +1,4 @@
+This is a sample document for the knowledge base.
+You can delete this file and add your own .txt files here.
+
+When a student asks a question, the AI will search these files and use the text found here to help answer their questions based on their level and subject.
